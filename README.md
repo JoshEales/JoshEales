@@ -1,9 +1,7 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--gL92J21W--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rv77cwi34d8yhi0hujkl.png)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Joshua Eales</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josheales" alt="josheales" /></a> </p>
+<img align="center" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
 
 - 🔭 I’m currently working on **Bugsy**
 

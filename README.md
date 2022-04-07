@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋, I'm Joshua Eales</h2>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
-<img align="center" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
 
 - 🔭 I’m currently working on **Bugsy**
 

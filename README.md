@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react native, node.js and postreSQL**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, expo**
 
 - ⚡ Fun fact **I know how to smile and wave**
 

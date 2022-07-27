@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **react, expo**
 
-- ⚡ Fun fact **My money don't jiggle jiggle it folds**
-
 - ⚡ Coding Collective **CodeArenaHub**
 
 <h3 align="left">Languages and Tools:</h3>

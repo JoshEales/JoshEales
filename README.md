@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bugsy**
 
-- 🌱 I’m currently learning **react native, node.js, graphQL and postreSQL**
+- 🌱 I’m currently learning **react native, node.js, graphQL and postgreSQL**
 
 - 💬 Ask me about **react, expo**
 
